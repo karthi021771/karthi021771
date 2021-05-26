@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 karthi car is wagnor
-
-
-=======
 muthu car is sonet
->>>>>>> karthi
